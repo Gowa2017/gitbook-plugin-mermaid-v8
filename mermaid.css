@@ -4,6 +4,9 @@
 .mermaid .label {
   color: #333;
 }
+.mermaid .label foreignObject {
+  overflow: visible;
+}
 .node rect,
 .node circle,
 .node ellipse,
