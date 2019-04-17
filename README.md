@@ -7,14 +7,14 @@ Plugin for [GitBook](https://github.com/GitbookIO/gitbook) 3 which renders [Merm
 You can use install via **NPM**:
 
 ```
-$ npm install gitbook-plugin-mermaid-gb3
+$ npm install gitbook-plugin-mermaid-v8
 ```
 
 And use it for your book with in the book.json:
 
 ```
 {
-  "plugins": ["mermaid-gb3"]
+  "plugins": ["mermaid-v8"]
 }
 ```
 
